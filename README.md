@@ -1,6 +1,6 @@
 # GRANTS
 
-## Milestones et échéances
+## Milestones and deadlines
 
 |Grant|Milestone|Deadline|
 |:-------|:------------------|:------:|
