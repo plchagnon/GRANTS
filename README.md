@@ -35,3 +35,23 @@ Samplings for end of Summer 2025 (or Spring 2026): each plot = 1 composite rang,
 * pH
 * C/N dry combustion 
 
+<br><br>
+
+## BIOCHAR
+
+#### **Questions we may want to ask**:
+
+1. **How different biochars and fertilizer fractionation influence nutrient uptake efficiency and mycorrhizal biomass and community structure**
+
+As biochar is expected to adsorb mineral nutrients and release them progressively (see Hagemann et al. 2017 *PLoS One* and other papers by Claudia Kammann), it may act like split fertilizer and mitigate the negative effect of fertilization on (1) AM fungal biomass and community structure (e.g., Johnson et al. 1993 *Ecol Applic*) and (2) soil water quality (potential nutrient losses). We will evaluate this using the following design:
+
+<center>5 biochar conditions (none, and 4 different types) × 3 fertilizer conditions (none, single dose, splitted dose) × 10 reps = 150 pots </center>
+
+For each treatment combination, 3 of the replicates will have micro samplers to collect soil solution right after fertilizer dose application. The crop will be **pepper**, and soil will be a mineral soil from L'Acadie experimental farm. At the end of the experiment, we will measure:
+
+* Plant biomass (aboveground AND belowground)
+* Plant [N] (aboveground, vegetative and fruit)
+* Plant [P] (same)
+* *** With these, $NUE= \text{Taken up} / \text{Applied}$
+
+
