@@ -53,6 +53,16 @@ For each treatment combination, 3 of the replicates will have micro samplers to 
 * Plant [N] (aboveground, vegetative and fruit)
 * Plant [P] (same)
 * *** With these, $NUE= \left(\frac{\text{Taken up}}{\text{Applied}}\right)$,
-$\text{Agron. efficiency}= \left(\frac{\text{Yield fertil. - Yield no fertil.}}{\text{Applied}}\right)$, and $\text{Recovery. efficiency}= \left(\frac{\text{Taken up fertil. - Taken up no fertil.}}{\text{Applied}}\right)$
+$\text{Agron. efficiency}= \left(\frac{\text{Yield fertil. - Yield no fertil.}}{\text{Applied}}\right)$, and $\text{Recovery efficiency}= \left(\frac{\text{Taken up fertil. - Taken up no fertil.}}{\text{Applied}}\right)$
+* Soil water solution (4 dates, mirroring split applications) mineral N (NO<sub>3</sub><sup>-</sup>, NH<sub>4</sub><sup>+</sup>) and P
+* RLC at harvest (Lévesque et al. 2020 *Appl Soil Ecol* = 63d?)
+* ERM at harvest
+* AM fungal DNA for both roots and ERM (ERM isolated instead of taking directly soil)
+* Sporulation within a mesh bag filled with sand and same prop of biochar?
 
+<br><br>
+
+2. **How do biochar influence mycorrhizal uptake of labelled N**
+
+As biochar is expected to adsorb strongly mineral nutrients, we could imagine that it will compete with mycorrhizal fungal uptake and transfer to plants. Thus, by varying application rates, we could see a decrease in labelled N (<sup>15</sup>N) transfer to host, and correspondingly a reduction in host investment into AM symbiont? Would require a pure culture system ideally...
 
