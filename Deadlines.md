@@ -7,6 +7,6 @@
 |**MATTER**|Get DNAs from Hervé and conduct amplification and sequencing|2025-12-31|
 |**MATTER**|Get a pot experiment with fungicides started (or start in field at Ste-Clo?)|2026-02-01|
 |**MATTER**|Conduct a JSDM analysis of Ste-Clotilde field samples|2026-02-01|
-|**Viromics**|Decide on soil health indices to measure|2025-08-31|
+|**Viromics**|Decide on soil health indices to measure|2025-08-11|
 |**Viromics**|Sample soils from Frelighsburg|2025-09-15|
 ||||
