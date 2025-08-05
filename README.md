@@ -52,6 +52,7 @@ For each treatment combination, 3 of the replicates will have micro samplers to 
 * Plant biomass (aboveground AND belowground)
 * Plant [N] (aboveground, vegetative and fruit)
 * Plant [P] (same)
-* *** With these, $NUE= \text{Taken up} / \text{Applied}$
+* *** With these, $NUE= \left(\frac{\text{Taken up}}{\text{Applied}}\right)$,
+$\text{Agron. efficiency}= \left(\frac{\text{Yield fertil. - Yield no fertil.}}{\text{Applied}}\right)$, and $\text{Recovery. efficiency}= \left(\frac{\text{Taken up fertil. - Taken up no fertil.}}{\text{Applied}}\right)$
 
 
