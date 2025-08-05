@@ -10,3 +10,12 @@
 |**Viromics**|Decide on soil health indices to measure|2025-08-11|
 |**Viromics**|Sample soils from Frelighsburg|2025-09-15|
 ||||
+|**BIOCHAR**|Decide on experimental design for mineral soil microcosms|2025-08-20|
+|**BIOCHAR**|Decide on experimental design for organic soil|2025-08-20|
+|**BIOCHAR**|Order soil water samplers (Hoskin) (25 more)|2025-08-15|
+|**BIOCHAR**|Run a mycorrhizal <sup>15</sup>N uptake experiment in biochar-amended pouch|2025-10-01|
+|**BIOCHAR**|Get AM fungi sequenced from microcosm mineral expt (pepper)|2025-01-31|
+|**BIOCHAR**|||
+|**BIOCHAR**|||
+|**BIOCHAR**|||
+|**BIOCHAR**|||
