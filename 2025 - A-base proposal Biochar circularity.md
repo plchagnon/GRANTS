@@ -40,3 +40,5 @@ Finally, could biochar capture not only nutrients, but also antibiotics from man
 
 ## Energy circularity
 [Lu and Hanandeh (2019)](https://www.sciencedirect.com/science/article/pii/S0959652618337272) have suggested that bio-oil had a better environmental footprint and economical benefit than biochar (which was better for GHG reduction), while up to now most of the discussion around pyrolysis has gravitated around biochar as a soil amendment. With higher pyrolysis temperatures, quick exposure time and finely ground materials (because solids have poor thermal conductivity), we can get high bio-oil yields, which is **very** energy-dense. 
+
+Should look at [Brassard et al. (2017)](https://www.sciencedirect.com/science/article/pii/S1537511017302234) for a review on auger pyrolysis apparatus and parameters that impact efficiency and bio-oil production...
