@@ -10,13 +10,15 @@ In this project, we will explore various axes of circularity involving biochar:
     - Manure/slurry pit (since those nutrient surpluses will be largely lost to env, may as well sell it as nutrient-enriched biochar?)
 
 2. **Energy circularity**
-    - Culture residues (e.g., unsellable material from horticulture) turned into bio-oil, 5$\times$ more energy dense than solid material ([Lindfors et al. 2019](https://www.sciencedirect.com/science/article/pii/S0961953419302144))
+    - Culture residues (e.g., unsellable material from horticulture) turned into bio-oil, 5 $\times$ more energy dense than solid material ([Lindfors et al. 2019](https://www.sciencedirect.com/science/article/pii/S0961953419302144))
     - Same with prunings from agroforestry or vinelands?
+    - ****** Look more into potential collaborations with CANMET Energy centres NRCan (Alberta-Ottawa-Varennes?)
   
 3. **Material circularity**
     - Biochar produced from local sources used as feed additives for poultry, swine or bovine...? Agroecological platform Sherbrooke? CH<sub>4</sub> emissions...?
+    - Value-added products made from biochar, including pesticides?? Very good review to start from regarding biocidal potential of pyrolysis bio-oils is [Mattos et al. 2019](https://www.sciencedirect.com/science/article/pii/S0165237018306235)... **insecticidal**, **fungicidal**, side-effects on non-target organisms...?
   
-4. **Watter "circularity"**
+4. **Water "circularity"**
     - Improved WUE in some horticultural systems? E.g., irrigated mineral soils?
     - Close the loops for clean water "in" to clean water "out" by removing nutrients/pesticides/antibiotics from wastewaters
 
@@ -24,3 +26,17 @@ In this project, we will explore various axes of circularity involving biochar:
     - Cooperative sharing partnerships of pyrolysis facilities in rural economy...?
 
 
+
+## Nutrient circularity
+Agroecosystem nutrient circularity is compromised by two major issues: (1) agroecosystems are nutrient-leaky and (2) nutrients are mostly sourced externally from unsustainable sources. Among the potential avenues to explore are (1) constructed wetlands to explore how substrate biochar and plant biomass turned into biochar could generate a biochar-based amendment allowing the re-cycling of nutrients within the systems from which they were lost. Avoided costs in fertilizer acquisition, plus the benefit of using biochar for the crop, should be quantified. 
+
+Alternatively, could simpler approaches like biochar pouches in tile drainage controle system, at the outlet...?
+
+Another way of recycling agricultural nutrients from the watershed would be to re-capture them from waterbodies, using, e.g., floating biochar bags to remove excess N and mostly P responsible for eutrophication...?
+
+Finally, could biochar capture not only nutrients, but also antibiotics from manure pits? See [Mahrhaki & Mao 2022](https://acsess.onlinelibrary.wiley.com/doi/10.1002/jeq2.20331) for example with wastewater treatment... 
+
+<br>
+
+## Energy circularity
+[Lu and Hanandeh (2019)](https://www.sciencedirect.com/science/article/pii/S0959652618337272) have suggested that bio-oil had a better environmental footprint and economical benefit than biochar (which was better for GHG reduction), while up to now most of the discussion around pyrolysis has gravitated around biochar as a soil amendment. With higher pyrolysis temperatures, quick exposure time and finely ground materials (because solids have poor thermal conductivity), we can get high bio-oil yields, which is **very** energy-dense. 
